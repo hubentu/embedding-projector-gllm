@@ -1,0 +1,16 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "GTEx",
+      "tensorShape": [19214, 768],
+      "tensorPath": "https://github.com/hubentu/embedding-projector-gllm/raw/master/oss_data/gtex_embedding.bytes",
+      "metadataPath": "https://github.com/hubentu/embedding-projector-gllm/raw/master/oss_data/gtex_embedding_meta.tsv"
+    },
+    {
+      "tensorName": "GTEx_tune",
+      "tensorShape": [19214, 768],
+      "tensorPath": "https://github.com/hubentu/embedding-projector-gllm/raw/master/oss_data/gtex_embedding_tune.bytes",
+      "metadataPath": "https://github.com/hubentu/embedding-projector-gllm/raw/master/oss_data/gtex_embedding_meta.tsv"
+    }
+  ]
+}
