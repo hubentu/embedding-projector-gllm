@@ -3,13 +3,13 @@
     {
       "tensorName": "GTEx",
       "tensorShape": [19214, 768],
-      "tensorPath": "oss_data/gtex_embedding.bytes",
+      "tensorPath": "oss_data/gtex_embedding.tsv",
       "metadataPath": "oss_data/gtex_embedding_meta.tsv"
     },
     {
       "tensorName": "GTEx_tune",
       "tensorShape": [19214, 768],
-      "tensorPath": "oss_data/gtex_embedding_tune.bytes",
+      "tensorPath": "oss_data/gtex_embedding_tune.tsv",
       "metadataPath": "oss_data/gtex_embedding_meta.tsv"
     }
   ],

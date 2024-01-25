@@ -2,3 +2,5 @@
 oss_data/gtex_embedding_tune.bytes filter=lfs diff=lfs merge=lfs -text
 oss_data/gtex_embedding.bytes filter=lfs diff=lfs merge=lfs -text
 oss_data/*.bytes filter=lfs diff=lfs merge=lfs -text
+oss_data/gtex_embedding.tsv filter=lfs diff=lfs merge=lfs -text
+oss_data/gtex_embedding_tune.tsv filter=lfs diff=lfs merge=lfs -text
