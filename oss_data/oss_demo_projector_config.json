@@ -1,0 +1,17 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "GTEx",
+      "tensorShape": [19214, 768],
+      "tensorPath": "oss_data/gtex_embedding.bytes",
+      "metadataPath": "oss_data/gtex_embedding_meta.tsv"
+    },
+    {
+      "tensorName": "GTEx_tune",
+      "tensorShape": [19214, 768],
+      "tensorPath": "oss_data/gtex_embedding_tune.bytes",
+      "metadataPath": "oss_data/gtex_embedding_meta.tsv"
+    }
+  ],
+  "modelCheckpointPath": "GLLM"
+}
